@@ -1,0 +1,1 @@
+flask echo gunicorn git add . git commit -m fix: add gunicorn to requirements git push origin main
